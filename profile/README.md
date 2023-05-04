@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Working in progress...
+### 준비중입니다.
 
 **Here are some ideas to get you started:**
 
